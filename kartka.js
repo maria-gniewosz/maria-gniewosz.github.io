@@ -17,7 +17,7 @@ const wombat2 = add([
     pos(100,250)
 ])
 
-add([play("muzyka")])
+
 
 onKeyRelease("space",()=>play ("muzyka"))
 
